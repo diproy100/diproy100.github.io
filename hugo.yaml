@@ -71,7 +71,7 @@ params:
   profileMode:
     enabled: true
     title: "Dipayan Roy"
-    subtitle: "EPM Architect · OneStream & Hyperion · More than a decade in Enterprise Performance Management. I write about EPM, Fintech and software engineering."
+    subtitle: "I build the systems that help finance teams plan, forecast and close the books, and write about what I learn along the way. EPM architect · OneStream · Hyperion · Fintech."
     imageUrl: "images/profile.jpg"
     imageWidth: 180
     imageHeight: 180
