@@ -65,7 +65,7 @@ params:
 
   # ---- Analytics (GoatCounter) ----
   # Leave empty to disable. Put only your site code, e.g. "diproy100"
-  goatcounter: ""
+  goatcounter: "diproy100"
 
   # ---- Home page (profile mode) ----
   profileMode:
