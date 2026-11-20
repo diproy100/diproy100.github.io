@@ -1,6 +1,7 @@
 ---
 title: "Contact"
 description: "How to reach me."
+hideMeta: true
 showToc: false
 comments: false
 ShowReadingTime: false
