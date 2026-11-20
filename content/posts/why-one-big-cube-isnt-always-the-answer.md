@@ -1,7 +1,7 @@
 ---
 title: "Why One Big Cube Isn't Always the Answer"
 date: 2026-11-20
-draft: false
+draft: true
 tags: ["OneStream", "EPM", "Design", "Performance"]
 summary: "A 45-minute consolidation on a client project, and how splitting one big Cube into several fixed it."
 comments: true        # set to false to turn off comments on this post
