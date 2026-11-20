@@ -55,9 +55,9 @@ params:
   comments: true
   giscus:
     repo: "diproy100/diproy100.github.io"
-    repoId: ""          # <-- paste from https://giscus.app (see README, step 4)
+    repoId: "R_kgDOV1xcog"          # <-- paste from https://giscus.app (see README, step 4)
     category: "Announcements"
-    categoryId: ""      # <-- paste from https://giscus.app (see README, step 4)
+    categoryId: "DIC_kwDOV1xcos4DLmQS"      # <-- paste from https://giscus.app (see README, step 4)
     mapping: "pathname"
     reactionsEnabled: "1"
     inputPosition: "bottom"
