@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 description: "EPM Architect with more than a decade of experience in Enterprise Performance Management."
+hideMeta: true
 showToc: false
 comments: false
 ShowReadingTime: false
