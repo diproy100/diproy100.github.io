@@ -1,6 +1,7 @@
 ---
 title: "Experience"
 description: "A high-level summary of my career in Enterprise Performance Management."
+hideMeta: true
 showToc: false
 comments: false
 ShowReadingTime: false
