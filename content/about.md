@@ -20,21 +20,6 @@ I have spent more than a decade designing and building the financial planning, b
 - **Build data pipelines** that move large volumes of financial and operational data into EPM, using Python, SQL and Google Cloud Platform.
 - **Bring AI/ML into planning**, for example time-series models that produce baseline forecasts automatically.
 
-## Skills at a glance
-
-| Area | Tools & technologies |
-|---|---|
-| EPM platforms | OneStream, Hyperion Planning, Essbase, PBCS / EPBCS, DRM / EDMCS, FDMEE / Data Management |
-| Languages | VB.NET, C#, Python, SQL, MDX, MaxL |
-| Data & cloud | Google Cloud Platform, data integration, automated pipelines |
-| AI / ML | Time-series forecasting, predictive models |
-
-## Education & certifications
-
-- B.Tech in Computer Science, Techno India (WBUT)
-- Oracle Hyperion Planning Implementation Specialist
-- IBM AI Engineering Professional
-
 ## Why this blog?
 
 I enjoy the space where finance and engineering meet. Here I write about things I find interesting: EPM design patterns, OneStream and Hyperion tips, Fintech, and software engineering in general.
